@@ -6,9 +6,13 @@
 
 <img width="756" height="368" alt="image" src="https://github.com/user-attachments/assets/aa815e31-1643-4c2b-afda-0c436818087e" />
 
-## Tabulations
+##Circuit diagram
+
+<img width="865" height="456" alt="image" src="https://github.com/user-attachments/assets/676b7721-c6f8-49d6-9f91-304dfc63d44e" />
+
 
 ## Graph
+<img width="854" height="465" alt="image" src="https://github.com/user-attachments/assets/e6ef0844-2bf5-443b-9820-a23c81cc7b41" />
 
 
 <img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
