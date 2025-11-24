@@ -8,9 +8,6 @@
 
 <img width="1280" height="600" alt="image" src="https://github.com/user-attachments/assets/92f6cd04-d716-4b4c-9b49-756858580d73" />
 
-## GRAPHS
-
-<img width="1089" height="1474" alt="image" src="https://github.com/user-attachments/assets/8eb7932c-54dc-4753-a05c-6dc069073e52" />
 
 
 
